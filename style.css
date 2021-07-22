@@ -1,0 +1,15 @@
+.body_backgorund 
+{
+    background-color: pink;
+    background-position:center;
+    background-size:cover;
+}
+#c1
+{
+   background-color: white;
+   border: 10px solid brown;
+}
+button{
+    height: 30px;
+    width: 150px;
+}
